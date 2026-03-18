@@ -2,8 +2,9 @@
 
 ## О Reticulum MeshChat
 
-Reticulum MeshChat - это 
+**Reticulum MeshChat** - это десктопное приложение, позволяющее построить коммуникацию между пользователями сети **Reticulum**.
 
+![](docs/pics/main.png)
 
 ## Установка
 
@@ -15,23 +16,31 @@ Reticulum MeshChat - это
 
 [Если у вас не установлен docker](docs/DOCKER.md)
 
-
-Клонируем репозитоий в нужну юдиректорию
+1. Клонируем репозиторий в нужную директорию
 
 ```bash
 git clone git@github.com:MaksimovichDV/reticulum-meshchat.git
 ```
 
-Переходим в директорию проекта
+2. Переходим в директорию проекта
 
 ```bash
 cd reticulum-meshchat
 ```
 
-Запускаем проект 
+3. Запускаем проект 
 ```bash
 make start
 ```
 
-Открываем в браузере [тыц](http://localhost:8000)
+Рекомендуется использовать браузер Chromium или основанных на нем.
 
+Открываем проект в браузере [тыц](http://localhost:8000)
+
+## Возможности проекта
+в разработке
+
+
+## Разное
+
+Все предложения, замечания и критику можно оставить [тут](https://github.com/MaksimovichDV/reticulum-meshchat/issues)
