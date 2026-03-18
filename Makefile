@@ -15,7 +15,7 @@ up:
 	${DOCKER_COMPOSE} up -d --remove-orphans
 
 down:
-	 down -v --rmi=all --remove-orphans
+	${DOCKER_COMPOSE} down -v --rmi=all --remove-orphans
 
 ### Утилиты
 bash:
