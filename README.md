@@ -16,3 +16,22 @@ Reticulum MeshChat - это
 [Если у вас не установлен docker](docs/DOCKER.md)
 
 
+Клонируем репозитоий в нужну юдиректорию
+
+```bash
+git clone git@github.com:MaksimovichDV/reticulum-meshchat.git
+```
+
+Переходим в директорию проекта
+
+```bash
+cd reticulum-meshchat
+```
+
+Запускаем проект 
+```bash
+make start
+```
+
+Открываем в браузере [тыц](http://localhost:8000)
+
