@@ -30,7 +30,7 @@ cd reticulum-meshchat
 
 3. Запускаем проект 
 ```bash
-make start
+make up
 ```
 
 Рекомендуется использовать браузер Chromium или основанных на нем.
