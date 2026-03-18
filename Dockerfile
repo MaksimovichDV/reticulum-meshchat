@@ -1,0 +1,1 @@
+FROM ghcr.io/liamcottle/reticulum-meshchat:latest
