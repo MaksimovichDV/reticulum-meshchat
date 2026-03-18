@@ -1,8 +1,8 @@
-# Установка Вщлу
+# Установка Docker
 
 ## Windows
 
-На windows установить git не составить труда, просто [скачайте](https://www.docker.com/products/docker-desktop/) нужный 
+На windows установить Docker не составить труда, просто [скачайте](https://www.docker.com/products/docker-desktop/) нужный 
 инсталлятор с официального сайта и запустите его.
 
 ## Linux (в разработке)
